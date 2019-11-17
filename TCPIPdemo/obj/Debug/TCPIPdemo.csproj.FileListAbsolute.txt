@@ -1,0 +1,12 @@
+C:\Users\nguyenvanvu\source\repos\TCPIPdemo\TCPIPdemo\bin\Debug\TCPIPdemo.exe.config
+C:\Users\nguyenvanvu\source\repos\TCPIPdemo\TCPIPdemo\bin\Debug\TCPIPdemo.exe
+C:\Users\nguyenvanvu\source\repos\TCPIPdemo\TCPIPdemo\bin\Debug\TCPIPdemo.pdb
+C:\Users\nguyenvanvu\source\repos\TCPIPdemo\TCPIPdemo\bin\Debug\SimpleTCP.dll
+C:\Users\nguyenvanvu\source\repos\TCPIPdemo\TCPIPdemo\obj\Debug\TCPIPdemo.csprojAssemblyReference.cache
+C:\Users\nguyenvanvu\source\repos\TCPIPdemo\TCPIPdemo\obj\Debug\TCPIPdemo.Form1.resources
+C:\Users\nguyenvanvu\source\repos\TCPIPdemo\TCPIPdemo\obj\Debug\TCPIPdemo.Properties.Resources.resources
+C:\Users\nguyenvanvu\source\repos\TCPIPdemo\TCPIPdemo\obj\Debug\TCPIPdemo.csproj.GenerateResource.cache
+C:\Users\nguyenvanvu\source\repos\TCPIPdemo\TCPIPdemo\obj\Debug\TCPIPdemo.csproj.CoreCompileInputs.cache
+C:\Users\nguyenvanvu\source\repos\TCPIPdemo\TCPIPdemo\obj\Debug\TCPIPdemo.csproj.CopyComplete
+C:\Users\nguyenvanvu\source\repos\TCPIPdemo\TCPIPdemo\obj\Debug\TCPIPdemo.exe
+C:\Users\nguyenvanvu\source\repos\TCPIPdemo\TCPIPdemo\obj\Debug\TCPIPdemo.pdb
